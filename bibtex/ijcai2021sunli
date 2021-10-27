@@ -1,0 +1,7 @@
+@inproceedings{ijcai2021sunli,
+  author = {Sun, Xiaopeng and Li, Muxingzi and He, Tianyu and Fan, Lubin},
+  title = {Enhance Images as You Like with Unpaired Learning},
+  booktitle={The International Joint Conference on Artificial Intelligence (IJCAI)},
+  month = {August},
+  year = {2021}
+}
